@@ -1,3 +1,5 @@
+
+cat > install_web4_amplitude.sh << 'EOF'
 #!/bin/bash
 
 # ----------------------------------------
